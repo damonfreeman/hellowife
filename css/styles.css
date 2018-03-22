@@ -1,13 +1,13 @@
 #wrapper {
   background-color: lightpink;
   margin: auto;
-  height: 200px;
+  height: auto;
   width: 300px;
   text-align: center;
 }
 #mainbody {
   width: 280px;
-  height: 100px;
+  height: auto;
   word-wrap: break-word;
   text-align: center;
   margin: auto;
